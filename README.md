@@ -1,4 +1,4 @@
-# Nióbio Cash Paper Wallet
+# Niobio Cash Paper Wallet
 
 Download [latest release](https://github.com/niobio-cash/NbrPaperWalletGenerator/releases/latest), uncompress it on your computer, and open *index.html* using your browser File -> Open File menu.
 
